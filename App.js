@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { View, StyleSheet, PermissionsAndroid, Platform, ActivityIndicator } from 'react-native';
-import Voice from '@react-native-voice/voice';
 import { Provider as PaperProvider, Button, Text, Appbar, Snackbar } from 'react-native-paper';
 
 const App = () => {
